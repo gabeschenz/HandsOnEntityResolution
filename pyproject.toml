@@ -1,7 +1,7 @@
 [project]
 name = "handsonentityresolution"
 version = "0.1.0"
-description = "Add your description here"
+description = "Code for the book 'Hands on Entity Resolution', by Michael Shearer."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
